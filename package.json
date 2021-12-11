@@ -1,0 +1,15 @@
+{
+  "name": "dfs-implementations",
+  "version": "1.0.0",
+  "description": "A project created for demonstrating three different ways of implementing a depth first search algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.4"
+  }
+}
